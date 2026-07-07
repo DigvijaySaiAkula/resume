@@ -1,0 +1,84 @@
+{
+  "profile": {
+    "name": "DIGVIJAYA SAI AKULA",
+    "title": "IT Support | Process Associate",
+
+"contact": {
+    "email": "digvijayasaiakula@gmail.com",
+    "phone": "+91 6301628336",
+
+    "location": "Hyderabad, Telangana",
+    "location_url": "https://www.google.com/maps/search/?api=1&query=Hyderabad,Telangana",
+
+    "linkedin": "https://www.linkedin.com/in/digvijaya-sai-akula-95296a326/",
+    "github": "https://github.com/yourusername"
+},
+
+    "summary": "Computer Science graduate with knowledge of IT support, Windows operating systems, application troubleshooting, MS Office, Python, and basic networking. Strong analytical, communication, and problem-solving skills with a willingness to learn new technologies."},
+
+  "experience": [
+    {
+      "company": "Nonrel Technologies",
+      "designation": "IT Consultant",
+      "duration": "Jan 2026 – Mar 2026",
+      "location": "Hyderabad",
+      "points": [
+  "Provided technical support for Windows operating systems and enterprise applications.",
+  "Troubleshot application access, user account, and configuration issues.",
+  "Logged, tracked, and resolved IT support incidents following standard procedures.",
+  "Maintained accurate technical documentation and incident records.",
+  "Provided remote support while ensuring timely issue resolution."
+]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Automatic College Timetable Generating System",
+      "technology": "Python | Django | HTML | CSS | JavaScript",
+      "duration": "Dec 2022",
+      "points": [
+        "Developed a web-based timetable generation system.",
+        "Generated conflict-free schedules.",
+        "Reduced manual workload."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "B.Tech - Computer Science & Engineering",
+      "college": "Sir C R Reddy College of Engineering",
+      "year": "2023"
+    },
+    {
+      "degree": "Intermediate (MPC)",
+      "college": "Sasi Junior College",
+      "year": "2019"
+    },
+    {
+      "degree": "SSC",
+      "college": "Sasi English Medium High School",
+      "year": "2017"
+    }
+  ],
+
+  "skills": [
+  "Technical Support",
+  "Windows OS",
+  "MS Office",
+  "Application Troubleshooting",
+  "Incident Management",
+  "Basic Networking",
+  "Python",
+  "Typing Speed: 32 WPM (90% Accuracy)"
+],
+
+"certifications": [
+  {
+    "name": "English Typewriting (Lower Grade)",
+    "issuer": "State Board of Technical Education and Training",
+    "year": "2025"
+  }
+]
+}
